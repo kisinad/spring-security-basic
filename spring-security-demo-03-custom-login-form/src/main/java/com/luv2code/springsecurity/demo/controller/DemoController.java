@@ -11,9 +11,9 @@ public class DemoController {
 		return "home";
 	}
 
-	@GetMapping("/showLoginPage")
-	public String showLoginPage() {
-
-		return "plain-login";
-	}
+//	@GetMapping("/showLoginPage")
+//	public String showLoginPage() {
+//
+//		return "plain-login";
+//	}
 }
